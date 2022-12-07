@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "Project" ALTER COLUMN "zipCode" SET DATA TYPE VARCHAR(15);
